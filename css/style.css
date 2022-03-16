@@ -258,6 +258,10 @@ header {
 .intro__img {
   box-shadow: var(--bs);
 }
+.pf__img {
+  box-shadow: var(--bs);
+  margin: 2rem auto;
+}
 
 @media (min-width: 600px) {
   .intro {

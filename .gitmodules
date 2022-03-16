@@ -1,0 +1,3 @@
+[submodule "ableton"]
+	path = ableton
+	url = https://github.com/khalludi/ableton-about-page
